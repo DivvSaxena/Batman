@@ -78,11 +78,11 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("badass.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("cheers.gif");
 }
 
 #footer {
